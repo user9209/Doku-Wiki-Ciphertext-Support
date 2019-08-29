@@ -1,0 +1,43 @@
+====== Ciphertext-Support Plugin (ciphertextsupport) ======
+
+---- plugin ----
+description: This plugin enables support of using ciphertext encryption.
+author     : Georg Schmidt
+email      : gs-develop@gs-sys.de
+type       : syntax
+lastupdate : 2019-08-29
+compatible : 2018-04-22b
+depends    : 
+conflicts  : unknown
+similar    : 
+tags       : ciphertext
+
+downloadurl: https://github.com/user9209/Doku-Wiki-Ciphertext-Support/archive/master.zip
+bugtracker: https://github.com/user9209/Doku-Wiki-Ciphertext-Support/issues
+sourcerepo: https://github.com/user9209/Doku-Wiki-Ciphertext-Support
+donationurl: 
+
+screenshot_img : https://github.com/user9209/Doku-Wiki-Ciphertext-Support/raw/master/preview.png
+----
+
+===== Installation =====
+
+Install the plugin over the webfrontend by using the url:
+
+https://github.com/user9209/Doku-Wiki-Ciphertext-Support/archive/master.zip
+
+===== How to use =====
+
+
+
+=== Why should you use it? What does it fix? ===
+
+
+=== Change Log ===
+
+  * **2019-08-29**
+    * Initial release
+
+=== Known Bugs and Issues ===
+
+  * not yet known

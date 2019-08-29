@@ -1,0 +1,7 @@
+base ciphertextsupport
+author Georg Schmidt
+email  gs-develop@gs-sys.de
+date   2019-08-29
+name   Ciphertext-Support
+desc   This plugin enables support of using ciphertext encryption.
+url    https://www.dokuwiki.org/plugin:ciphertextsupport
